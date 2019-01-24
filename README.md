@@ -1,4 +1,4 @@
-## Casa do código
+## Casa do código - Lucas Pinheiro
 
 Projeto desenvolvido para a Formação de Desenvolver Java da Alura
  
